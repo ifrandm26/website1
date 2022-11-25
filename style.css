@@ -1,0 +1,25 @@
+body{nav-index: calc();
+    background-color: rgb(214, 226, 43);
+}
+
+ul{
+    list-style-type: square;
+  }
+
+  .list{
+    color: green;
+    font-size: large;
+    font-style: italic;
+
+  }
+.item1 li{
+    color: blue;
+     font-size: larger
+    ;
+}
+
+.item2 li{
+    color: red;
+     font-size: larger
+    ;
+}
